@@ -1,0 +1,21 @@
+.apartados li{
+    text-decoration: none;
+    color: black;
+}
+.apartados{
+    background-color: bisque;
+    padding: 30px;
+    display: inline-flex;
+    justify-content: space-evenly;
+    cursor: pointer;
+    width: 100%;
+     
+}
+.imagenp {
+    width: 200px;
+    height: 250px;
+    margin-right: auto;
+    margin-top: auto;
+    margin-left: auto;
+    display: block;
+}
